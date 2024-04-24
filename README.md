@@ -109,7 +109,7 @@ This way, as soon as you update your SDK, rebuilding your project will automatic
 1. Follow the instructions for setting up the Pico build environment from https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf
 2. In the pico c root directory you want to install the Pico-Green-Clock source from github by running the following commands.
 ```
-$ git clone git@github.com:astlouys/Pico-Green-Clock.git
+$ git clone https://github.com/cmcornish/Pico-Green-Clock
 ```
 3. Verify that the diretories are the following:
 ```
